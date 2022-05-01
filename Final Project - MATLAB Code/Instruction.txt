@@ -1,0 +1,5 @@
+1) Open all .m files in matlab
+2) from q4 through q9 in order, run the matlab scripts to see the results
+3) Open the Simulink file in simulink
+4) Run q9.m in MATLAB to ensure all the system variables are in the workspace
+5) Run the Simulink file to see the results of the Quanser system
